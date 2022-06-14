@@ -1,6 +1,6 @@
 
 # Check history Copart and IAA
-A curated list of amazingly cars history resources.
+A curated list of cars history resources.
 
 
 
