@@ -4,7 +4,7 @@ A curated list of cars history resources.
 
 
 
-Top Ranked sites
+Top sites
 ------
 *Sites to help you search vin history*
 
